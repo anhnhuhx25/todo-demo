@@ -25,4 +25,4 @@ Simply open `index.html` in any modern web browser to use the application.
 
 ## Screenshot
 
-(Add a screenshot of your app here)
+![image](https://github.com/user-attachments/assets/fef24395-02f5-472a-bfa2-56e83470a395)
